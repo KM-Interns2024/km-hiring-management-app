@@ -1,0 +1,34 @@
+John Doe
+
+Contact Information:
+
+Email: johndoe@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+Professional Summary:
+
+Python Developer with 3+ years of experience in software development. Expertise in building and deploying scalable NLU and NLP models. Proficient in Python, machine learning, AI, and database management. Experienced in integrating data from various systems, debugging code, and deploying applications using CI/CD tools. Strong problem-solving and critical-thinking skills with a passion for continuous learning.
+
+Technical Skills:
+
+Languages: Python
+Frameworks: Rasa, TensorFlow
+Databases: PostgreSQL, DynamoDB
+Tools: Docker, CI/CD, Terraform, AWS, GitHub, Linux
+Languages: English (Excellent)
+Experience:
+
+Python Developer
+Tech Solutions Inc., New York, NY
+Jan 2021 – Present
+
+Developed new KATE use cases, deployed NLU/NLP models, integrated data, debugged code, and optimized system performance.
+Software Developer
+Innovatech Corp., San Francisco, CA
+Jun 2018 – Dec 2020
+
+Built chatbots, managed databases, created RESTful APIs, and collaborated on problem-solving.
+Education:
+
+B.S. in Computer Science
+University of California, Berkeley
+Graduated: May 2018

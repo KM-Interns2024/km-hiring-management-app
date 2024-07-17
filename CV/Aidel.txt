@@ -1,0 +1,16 @@
+John Doe
+
+Address: 123 Main Street, Anytown, USA
+Phone: +1 (555) 123-4567
+Email: john.doe@email.com
+LinkedIn: linkedin.com/in/johndoe
+Objective
+To join KBC Global Services as a Python Developer, contributing to the KATE digital assistant with my expertise in Conversational AI and data science.
+
+Professional Experience
+Python Developer
+Tech Solutions Inc., Anytown, USA
+June 2019 - Present
+Skills
+Languages: Java, PHP, javasript, XML, JSON
+Databases: SQL

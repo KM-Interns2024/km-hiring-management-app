@@ -1,0 +1,50 @@
+
+John Doe
+
+Address: 123 Main Street, Anytown, USA
+Phone: +1 (555) 123-4567
+Email: john.doe@email.com
+LinkedIn: linkedin.com/in/johndoe
+Objective
+To contribute to KBC Global Services as a Python Developer, leveraging my experience in AI, NLP, and software development to enhance the KATE digital assistant.
+
+Professional Experience
+Python Developer
+Tech Solutions Inc., Anytown, USA
+June 2019 - Present
+
+Collaborated with technical and business experts to develop and enhance KATE use cases.
+Trained, maintained, and deployed highly scalable NLU and NLP models.
+Integrated data providers from internal systems and third-party applications.
+Analyzed logs, debugged code, and resolved technical issues and bugs.
+Deployed applications using CI/CD tools to ensure efficient workflows.
+Optimized the KATE system for maximum speed and scalability.
+Software Developer
+Innovative Tech Labs, Anytown, USA
+July 2016 - May 2019
+
+Built and deployed chatbots, enhancing user interaction capabilities.
+Managed relational and NoSQL databases (PostgreSQL/DynamoDB).
+Developed and maintained RESTful API services for seamless integrations.
+Education
+B.Sc. in Computer Science
+University of Technology, Anytown, USA
+May 2016
+
+Skills
+Programming Languages: Python (3+ years)
+AI/ML: NLU/NLP, Machine Learning, TensorFlow
+Databases: PostgreSQL, DynamoDB
+DevOps: Docker, CI/CD, Terraform, AWS
+Tools: Rasa framework, GitHub, Linux
+Other: Excellent English (spoken and written)
+Key Competences
+Strong foundation in Python and its frameworks/libraries.
+Hands-on experience with chatbots and deploying AI models.
+Proficient in integrating and managing data sources.
+Skilled in optimizing systems for performance and scalability.
+Adept at problem-solving, critical thinking, and analytical tasks.
+Personal Attributes
+Eager to learn and open to new tools, technologies, and processes.
+Team player with a collaborative, solution-oriented mindset.
+Quick learner with strong problem-solving skills and adaptability.
